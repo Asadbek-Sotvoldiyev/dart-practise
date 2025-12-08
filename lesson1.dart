@@ -51,7 +51,7 @@ void main(){
   //
   // print("First name: ${parts[0]}, Last name: ${parts[1]}");
 
-  //8
+  //6
   String? text = stdin.readLineSync()!;
 
   String vowels = "aeiouAEIOU";
